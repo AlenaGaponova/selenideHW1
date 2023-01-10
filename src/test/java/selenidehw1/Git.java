@@ -1,4 +1,4 @@
-package selenideHW1.solutions;
+package selenidehw1;
 
 import org.junit.jupiter.api.Test;
 
@@ -6,7 +6,7 @@ import static com.codeborne.selenide.Condition.text;
 import static com.codeborne.selenide.Selenide.*;
 import static com.codeborne.selenide.Selectors.byText;
 
-public class git {
+public class Git {
     @Test
     void solutions() {
         //открыть GitHub
